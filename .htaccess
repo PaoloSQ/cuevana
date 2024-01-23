@@ -1,0 +1,32 @@
+# Configuración de RewriteRule:
+RewriteEngine On
+RewriteBase /proyectos/cuevana/
+
+# Redirigir a index.php?url= para todas las solicitudes que no sean archivos o directorios existentes
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]
+
+# Resto de las configuraciones se mantienen igual
+Options +Indexes
+CheckSpelling off
+AddType x-mapp-php5 .php
+AddHandler x-mapp-php5 .php
+AddHandler cgi-script .cgi .asp
+
+<FilesMatch "\.inc$">
+    order deny,allow
+    allow from all
+</FilesMatch>
+
+ErrorDocument 400 /errordocument.html
+ErrorDocument 401 /errordocument.html
+ErrorDocument 403 /errordocument.html
+ErrorDocument 404 /errordocument.html
+ErrorDocument 500 /errordocument.html
+
+# Redirección con www
+RewriteCond %{HTTP_HOST} !^www\.paolosq\.com [NC]
+RewriteRule ^(.*)$ http://www.paolosq.com/$1 [R=301,L]
+

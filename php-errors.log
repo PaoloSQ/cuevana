@@ -1,0 +1,767 @@
+[23-Jan-2024 22:51:52 Europe/Berlin] 
+[23-Jan-2024 22:51:52 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 22:51:52 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php
+[23-Jan-2024 22:51:52 Europe/Berlin] App::App::__construct - URL: 
+[23-Jan-2024 22:51:52 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 18
+[23-Jan-2024 22:51:52 Europe/Berlin] App::App::processUrl - null
+[23-Jan-2024 22:51:52 Europe/Berlin] App::App::loadDefaultController - Sin mensajes.
+[23-Jan-2024 22:51:52 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 22:51:52 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 22:51:52 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 22:51:52 Europe/Berlin] View::View::render - NOMBRE: home/home, DATA: Array
+[23-Jan-2024 22:53:21 Europe/Berlin] 
+[23-Jan-2024 22:53:21 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 22:53:21 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php
+[23-Jan-2024 22:53:21 Europe/Berlin] App::App::__construct - URL: 
+[23-Jan-2024 22:53:21 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 18
+[23-Jan-2024 22:53:21 Europe/Berlin] App::App::processUrl - null
+[23-Jan-2024 22:53:21 Europe/Berlin] App::App::loadDefaultController - Sin mensajes.
+[23-Jan-2024 22:53:21 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 22:53:21 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 22:53:21 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 22:53:21 Europe/Berlin] View::View::render - NOMBRE: home/home, DATA: Array
+[23-Jan-2024 22:53:22 Europe/Berlin] 
+[23-Jan-2024 22:53:22 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 22:53:22 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=home/cargarUltimosEstrenos
+[23-Jan-2024 22:53:22 Europe/Berlin] App::App::__construct - URL: home/cargarUltimosEstrenos
+[23-Jan-2024 22:53:22 Europe/Berlin] App::App::processUrl - home
+[23-Jan-2024 22:53:22 Europe/Berlin] App::App::loadRequestedController - ControllerName: HomeController
+[23-Jan-2024 22:53:22 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 22:53:22 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 22:53:22 Europe/Berlin] App::App::initializeController - controller: \HomeController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarUltimosEstrenos
+[23-Jan-2024 22:53:22 Europe/Berlin] Controller::Controller::loadModel - URL: models/homeApiModel.php
+[23-Jan-2024 22:53:22 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 22:53:22 Europe/Berlin] 
+[23-Jan-2024 22:53:22 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 22:53:22 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=home/cargarPeliculas
+[23-Jan-2024 22:53:22 Europe/Berlin] App::App::__construct - URL: home/cargarPeliculas
+[23-Jan-2024 22:53:22 Europe/Berlin] App::App::processUrl - home
+[23-Jan-2024 22:53:22 Europe/Berlin] App::App::loadRequestedController - ControllerName: HomeController
+[23-Jan-2024 22:53:22 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 22:53:22 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 22:53:22 Europe/Berlin] App::App::initializeController - controller: \HomeController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarPeliculas
+[23-Jan-2024 22:53:22 Europe/Berlin] Controller::Controller::loadModel - URL: models/homeApiModel.php
+[23-Jan-2024 22:53:22 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 22:54:27 Europe/Berlin] 
+[23-Jan-2024 22:54:27 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 22:54:27 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/
+[23-Jan-2024 22:54:27 Europe/Berlin] App::App::__construct - URL: 
+[23-Jan-2024 22:54:27 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 18
+[23-Jan-2024 22:54:27 Europe/Berlin] App::App::processUrl - null
+[23-Jan-2024 22:54:27 Europe/Berlin] App::App::loadDefaultController - Sin mensajes.
+[23-Jan-2024 22:54:27 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 22:54:27 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 22:54:27 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 22:54:27 Europe/Berlin] View::View::render - NOMBRE: home/home, DATA: Array
+[23-Jan-2024 22:54:28 Europe/Berlin] 
+[23-Jan-2024 22:54:28 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 22:54:28 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=home/cargarUltimosEstrenos
+[23-Jan-2024 22:54:28 Europe/Berlin] App::App::__construct - URL: home/cargarUltimosEstrenos
+[23-Jan-2024 22:54:28 Europe/Berlin] App::App::processUrl - home
+[23-Jan-2024 22:54:28 Europe/Berlin] App::App::loadRequestedController - ControllerName: HomeController
+[23-Jan-2024 22:54:28 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 22:54:28 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 22:54:28 Europe/Berlin] App::App::initializeController - controller: \HomeController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarUltimosEstrenos
+[23-Jan-2024 22:54:28 Europe/Berlin] Controller::Controller::loadModel - URL: models/homeApiModel.php
+[23-Jan-2024 22:54:28 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 22:54:28 Europe/Berlin] 
+[23-Jan-2024 22:54:28 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 22:54:28 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=home/cargarPeliculas
+[23-Jan-2024 22:54:28 Europe/Berlin] App::App::__construct - URL: home/cargarPeliculas
+[23-Jan-2024 22:54:28 Europe/Berlin] App::App::processUrl - home
+[23-Jan-2024 22:54:28 Europe/Berlin] App::App::loadRequestedController - ControllerName: HomeController
+[23-Jan-2024 22:54:28 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 22:54:28 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 22:54:28 Europe/Berlin] App::App::initializeController - controller: \HomeController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarPeliculas
+[23-Jan-2024 22:54:28 Europe/Berlin] Controller::Controller::loadModel - URL: models/homeApiModel.php
+[23-Jan-2024 22:54:28 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:07:04 Europe/Berlin] 
+[23-Jan-2024 23:07:04 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:07:04 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=peliculas
+[23-Jan-2024 23:07:04 Europe/Berlin] App::App::__construct - URL: peliculas
+[23-Jan-2024 23:07:04 Europe/Berlin] App::App::processUrl - peliculas
+[23-Jan-2024 23:07:04 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculasController
+[23-Jan-2024 23:07:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method App::loadErrorController() in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php:42
+Stack trace:
+#0 /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php(23): App->loadRequestedController()
+#1 /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php(14): App->processUrl()
+#2 /homepages/8/d993419550/htdocs/proyectos/cuevana/index.php(39): App->__construct()
+#3 {main}
+  thrown in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 42
+[23-Jan-2024 23:07:12 Europe/Berlin] 
+[23-Jan-2024 23:07:12 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:07:12 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=peliculass
+[23-Jan-2024 23:07:12 Europe/Berlin] App::App::__construct - URL: peliculass
+[23-Jan-2024 23:07:12 Europe/Berlin] App::App::processUrl - peliculass
+[23-Jan-2024 23:07:12 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculassController
+[23-Jan-2024 23:07:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method App::loadErrorController() in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php:42
+Stack trace:
+#0 /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php(23): App->loadRequestedController()
+#1 /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php(14): App->processUrl()
+#2 /homepages/8/d993419550/htdocs/proyectos/cuevana/index.php(39): App->__construct()
+#3 {main}
+  thrown in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 42
+[23-Jan-2024 23:07:25 Europe/Berlin] 
+[23-Jan-2024 23:07:25 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:07:25 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php
+[23-Jan-2024 23:07:25 Europe/Berlin] App::App::__construct - URL: 
+[23-Jan-2024 23:07:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 18
+[23-Jan-2024 23:07:25 Europe/Berlin] App::App::processUrl - null
+[23-Jan-2024 23:07:25 Europe/Berlin] App::App::loadDefaultController - Sin mensajes.
+[23-Jan-2024 23:07:25 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:07:25 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:07:25 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 23:07:25 Europe/Berlin] View::View::render - NOMBRE: home/home, DATA: Array
+[23-Jan-2024 23:07:25 Europe/Berlin] 
+[23-Jan-2024 23:07:25 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:07:25 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=home/cargarUltimosEstrenos
+[23-Jan-2024 23:07:25 Europe/Berlin] App::App::__construct - URL: home/cargarUltimosEstrenos
+[23-Jan-2024 23:07:25 Europe/Berlin] App::App::processUrl - home
+[23-Jan-2024 23:07:25 Europe/Berlin] App::App::loadRequestedController - ControllerName: HomeController
+[23-Jan-2024 23:07:25 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:07:25 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:07:25 Europe/Berlin] App::App::initializeController - controller: \HomeController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarUltimosEstrenos
+[23-Jan-2024 23:07:25 Europe/Berlin] Controller::Controller::loadModel - URL: models/homeApiModel.php
+[23-Jan-2024 23:07:25 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:07:26 Europe/Berlin] 
+[23-Jan-2024 23:07:26 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:07:26 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=home/cargarPeliculas
+[23-Jan-2024 23:07:26 Europe/Berlin] App::App::__construct - URL: home/cargarPeliculas
+[23-Jan-2024 23:07:26 Europe/Berlin] App::App::processUrl - home
+[23-Jan-2024 23:07:26 Europe/Berlin] App::App::loadRequestedController - ControllerName: HomeController
+[23-Jan-2024 23:07:26 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:07:26 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:07:26 Europe/Berlin] App::App::initializeController - controller: \HomeController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarPeliculas
+[23-Jan-2024 23:07:26 Europe/Berlin] Controller::Controller::loadModel - URL: models/homeApiModel.php
+[23-Jan-2024 23:07:26 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:09:10 Europe/Berlin] 
+[23-Jan-2024 23:09:10 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:10 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/Lift
+[23-Jan-2024 23:09:10 Europe/Berlin] App::App::__construct - URL: pelicula/Lift
+[23-Jan-2024 23:09:10 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:09:10 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:09:10 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:10 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:10 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: Lift
+[23-Jan-2024 23:09:10 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:09:10 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 23:09:10 Europe/Berlin] View::View::render - NOMBRE: pelicula/pelicula, DATA: Array
+[23-Jan-2024 23:09:11 Europe/Berlin] 
+[23-Jan-2024 23:09:11 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:11 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/index.php?url=pelicula/obtenerPelicula
+[23-Jan-2024 23:09:11 Europe/Berlin] App::App::__construct - URL: pelicula/obtenerPelicula
+[23-Jan-2024 23:09:11 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:09:11 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:09:11 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:11 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:11 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: obtenerPelicula
+[23-Jan-2024 23:09:11 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:09:11 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:09:11 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:09:11 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:09:11 Europe/Berlin] 
+[23-Jan-2024 23:09:11 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:11 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/index.php?url=pelicula/obtenerVideo
+[23-Jan-2024 23:09:11 Europe/Berlin] App::App::__construct - URL: pelicula/obtenerVideo
+[23-Jan-2024 23:09:11 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:09:11 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:09:11 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:11 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:11 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: obtenerVideo
+[23-Jan-2024 23:09:11 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:09:11 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:09:11 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:09:11 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:09:18 Europe/Berlin] 
+[23-Jan-2024 23:09:18 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:18 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/
+[23-Jan-2024 23:09:18 Europe/Berlin] App::App::__construct - URL: 
+[23-Jan-2024 23:09:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 18
+[23-Jan-2024 23:09:18 Europe/Berlin] App::App::processUrl - null
+[23-Jan-2024 23:09:18 Europe/Berlin] App::App::loadDefaultController - Sin mensajes.
+[23-Jan-2024 23:09:18 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:18 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:18 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 23:09:18 Europe/Berlin] View::View::render - NOMBRE: home/home, DATA: Array
+[23-Jan-2024 23:09:18 Europe/Berlin] 
+[23-Jan-2024 23:09:18 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:18 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=home/cargarUltimosEstrenos
+[23-Jan-2024 23:09:18 Europe/Berlin] App::App::__construct - URL: home/cargarUltimosEstrenos
+[23-Jan-2024 23:09:18 Europe/Berlin] App::App::processUrl - home
+[23-Jan-2024 23:09:18 Europe/Berlin] App::App::loadRequestedController - ControllerName: HomeController
+[23-Jan-2024 23:09:18 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:18 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:18 Europe/Berlin] App::App::initializeController - controller: \HomeController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarUltimosEstrenos
+[23-Jan-2024 23:09:18 Europe/Berlin] Controller::Controller::loadModel - URL: models/homeApiModel.php
+[23-Jan-2024 23:09:18 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:09:18 Europe/Berlin] 
+[23-Jan-2024 23:09:18 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:18 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=home/cargarPeliculas
+[23-Jan-2024 23:09:18 Europe/Berlin] App::App::__construct - URL: home/cargarPeliculas
+[23-Jan-2024 23:09:18 Europe/Berlin] App::App::processUrl - home
+[23-Jan-2024 23:09:18 Europe/Berlin] App::App::loadRequestedController - ControllerName: HomeController
+[23-Jan-2024 23:09:18 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:18 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:18 Europe/Berlin] App::App::initializeController - controller: \HomeController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarPeliculas
+[23-Jan-2024 23:09:18 Europe/Berlin] Controller::Controller::loadModel - URL: models/homeApiModel.php
+[23-Jan-2024 23:09:18 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:09:21 Europe/Berlin] 
+[23-Jan-2024 23:09:21 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:21 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/Napoleon
+[23-Jan-2024 23:09:21 Europe/Berlin] App::App::__construct - URL: pelicula/Napoleon
+[23-Jan-2024 23:09:21 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:09:21 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:09:21 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:21 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:21 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: Napoleon
+[23-Jan-2024 23:09:21 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:09:21 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 23:09:21 Europe/Berlin] View::View::render - NOMBRE: pelicula/pelicula, DATA: Array
+[23-Jan-2024 23:09:21 Europe/Berlin] 
+[23-Jan-2024 23:09:21 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:21 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/index.php?url=pelicula/obtenerPelicula
+[23-Jan-2024 23:09:21 Europe/Berlin] App::App::__construct - URL: pelicula/obtenerPelicula
+[23-Jan-2024 23:09:21 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:09:21 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:09:21 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:21 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:21 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: obtenerPelicula
+[23-Jan-2024 23:09:21 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:09:21 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:09:21 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:09:21 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:09:22 Europe/Berlin] 
+[23-Jan-2024 23:09:22 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:22 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/index.php?url=pelicula/obtenerVideo
+[23-Jan-2024 23:09:22 Europe/Berlin] App::App::__construct - URL: pelicula/obtenerVideo
+[23-Jan-2024 23:09:22 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:09:22 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:09:22 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:22 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:22 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: obtenerVideo
+[23-Jan-2024 23:09:22 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:09:22 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:09:22 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:09:22 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:09:28 Europe/Berlin] 
+[23-Jan-2024 23:09:28 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:28 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/busqueda/search?q=five
+[23-Jan-2024 23:09:28 Europe/Berlin] App::App::__construct - URL: busqueda/search
+[23-Jan-2024 23:09:28 Europe/Berlin] App::App::processUrl - busqueda
+[23-Jan-2024 23:09:28 Europe/Berlin] App::App::loadRequestedController - ControllerName: BusquedaController
+[23-Jan-2024 23:09:28 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:28 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:28 Europe/Berlin] App::App::initializeController - controller: \BusquedaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: search
+[23-Jan-2024 23:09:28 Europe/Berlin] Controller::Controller::loadModel - URL: models/busquedaApiModel.php
+[23-Jan-2024 23:09:28 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 23:09:28 Europe/Berlin] View::View::render - NOMBRE: busqueda/busqueda, DATA: Array
+[23-Jan-2024 23:09:28 Europe/Berlin] 
+[23-Jan-2024 23:09:28 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:28 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/busqueda/index.php?url=busqueda/cargarPeliculas
+[23-Jan-2024 23:09:28 Europe/Berlin] App::App::__construct - URL: busqueda/cargarPeliculas
+[23-Jan-2024 23:09:28 Europe/Berlin] App::App::processUrl - busqueda
+[23-Jan-2024 23:09:28 Europe/Berlin] App::App::loadRequestedController - ControllerName: BusquedaController
+[23-Jan-2024 23:09:28 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:28 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:28 Europe/Berlin] App::App::initializeController - controller: \BusquedaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarPeliculas
+[23-Jan-2024 23:09:28 Europe/Berlin] Controller::Controller::loadModel - URL: models/busquedaApiModel.php
+[23-Jan-2024 23:09:28 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:09:28 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:09:28 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:09:28 Europe/Berlin] search
+[23-Jan-2024 23:09:32 Europe/Berlin] 
+[23-Jan-2024 23:09:32 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:32 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/busqueda/generos/18
+[23-Jan-2024 23:09:32 Europe/Berlin] App::App::__construct - URL: busqueda/generos/18
+[23-Jan-2024 23:09:32 Europe/Berlin] App::App::processUrl - busqueda
+[23-Jan-2024 23:09:32 Europe/Berlin] App::App::loadRequestedController - ControllerName: BusquedaController
+[23-Jan-2024 23:09:32 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:32 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:32 Europe/Berlin] App::App::initializeController - controller: \BusquedaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: generos
+[23-Jan-2024 23:09:32 Europe/Berlin] Controller::Controller::loadModel - URL: models/busquedaApiModel.php
+[23-Jan-2024 23:09:32 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 23:09:32 Europe/Berlin] View::View::render - NOMBRE: busqueda/busqueda, DATA: Array
+[23-Jan-2024 23:09:32 Europe/Berlin] 
+[23-Jan-2024 23:09:32 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:32 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/busqueda/generos/index.php?url=busqueda/cargarPeliculas
+[23-Jan-2024 23:09:32 Europe/Berlin] App::App::__construct - URL: busqueda/cargarPeliculas
+[23-Jan-2024 23:09:32 Europe/Berlin] App::App::processUrl - busqueda
+[23-Jan-2024 23:09:32 Europe/Berlin] App::App::loadRequestedController - ControllerName: BusquedaController
+[23-Jan-2024 23:09:32 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:32 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:32 Europe/Berlin] App::App::initializeController - controller: \BusquedaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarPeliculas
+[23-Jan-2024 23:09:32 Europe/Berlin] Controller::Controller::loadModel - URL: models/busquedaApiModel.php
+[23-Jan-2024 23:09:32 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:09:32 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:09:32 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:09:32 Europe/Berlin] generos
+[23-Jan-2024 23:09:54 Europe/Berlin] 
+[23-Jan-2024 23:09:54 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:54 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/
+[23-Jan-2024 23:09:54 Europe/Berlin] App::App::__construct - URL: 
+[23-Jan-2024 23:09:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 18
+[23-Jan-2024 23:09:54 Europe/Berlin] App::App::processUrl - null
+[23-Jan-2024 23:09:54 Europe/Berlin] App::App::loadDefaultController - Sin mensajes.
+[23-Jan-2024 23:09:54 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:54 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:54 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 23:09:54 Europe/Berlin] View::View::render - NOMBRE: home/home, DATA: Array
+[23-Jan-2024 23:09:54 Europe/Berlin] 
+[23-Jan-2024 23:09:54 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:54 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=home/cargarUltimosEstrenos
+[23-Jan-2024 23:09:54 Europe/Berlin] App::App::__construct - URL: home/cargarUltimosEstrenos
+[23-Jan-2024 23:09:54 Europe/Berlin] App::App::processUrl - home
+[23-Jan-2024 23:09:54 Europe/Berlin] App::App::loadRequestedController - ControllerName: HomeController
+[23-Jan-2024 23:09:54 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:54 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:54 Europe/Berlin] App::App::initializeController - controller: \HomeController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarUltimosEstrenos
+[23-Jan-2024 23:09:54 Europe/Berlin] Controller::Controller::loadModel - URL: models/homeApiModel.php
+[23-Jan-2024 23:09:54 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:09:55 Europe/Berlin] 
+[23-Jan-2024 23:09:55 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:55 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=home/cargarPeliculas
+[23-Jan-2024 23:09:55 Europe/Berlin] App::App::__construct - URL: home/cargarPeliculas
+[23-Jan-2024 23:09:55 Europe/Berlin] App::App::processUrl - home
+[23-Jan-2024 23:09:55 Europe/Berlin] App::App::loadRequestedController - ControllerName: HomeController
+[23-Jan-2024 23:09:55 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:55 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:55 Europe/Berlin] App::App::initializeController - controller: \HomeController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarPeliculas
+[23-Jan-2024 23:09:55 Europe/Berlin] Controller::Controller::loadModel - URL: models/homeApiModel.php
+[23-Jan-2024 23:09:55 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:09:57 Europe/Berlin] 
+[23-Jan-2024 23:09:57 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:57 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/The-Marvels
+[23-Jan-2024 23:09:57 Europe/Berlin] App::App::__construct - URL: pelicula/The-Marvels
+[23-Jan-2024 23:09:57 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:09:57 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:09:57 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:57 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:57 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: The-Marvels
+[23-Jan-2024 23:09:57 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:09:57 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 23:09:57 Europe/Berlin] View::View::render - NOMBRE: pelicula/pelicula, DATA: Array
+[23-Jan-2024 23:09:58 Europe/Berlin] 
+[23-Jan-2024 23:09:58 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:58 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/index.php?url=pelicula/obtenerPelicula
+[23-Jan-2024 23:09:58 Europe/Berlin] App::App::__construct - URL: pelicula/obtenerPelicula
+[23-Jan-2024 23:09:58 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:09:58 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:09:58 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:58 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:58 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: obtenerPelicula
+[23-Jan-2024 23:09:58 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:09:58 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:09:58 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:09:58 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:09:59 Europe/Berlin] 
+[23-Jan-2024 23:09:59 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:09:59 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/index.php?url=pelicula/obtenerVideo
+[23-Jan-2024 23:09:59 Europe/Berlin] App::App::__construct - URL: pelicula/obtenerVideo
+[23-Jan-2024 23:09:59 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:09:59 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:09:59 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:09:59 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:09:59 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: obtenerVideo
+[23-Jan-2024 23:09:59 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:09:59 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:09:59 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:09:59 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:10:20 Europe/Berlin] 
+[23-Jan-2024 23:10:20 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:10:20 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/
+[23-Jan-2024 23:10:20 Europe/Berlin] App::App::__construct - URL: 
+[23-Jan-2024 23:10:20 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 18
+[23-Jan-2024 23:10:20 Europe/Berlin] App::App::processUrl - null
+[23-Jan-2024 23:10:20 Europe/Berlin] App::App::loadDefaultController - Sin mensajes.
+[23-Jan-2024 23:10:20 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:10:20 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:10:20 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 23:10:20 Europe/Berlin] View::View::render - NOMBRE: home/home, DATA: Array
+[23-Jan-2024 23:10:20 Europe/Berlin] 
+[23-Jan-2024 23:10:20 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:10:20 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=home/cargarUltimosEstrenos
+[23-Jan-2024 23:10:20 Europe/Berlin] App::App::__construct - URL: home/cargarUltimosEstrenos
+[23-Jan-2024 23:10:20 Europe/Berlin] App::App::processUrl - home
+[23-Jan-2024 23:10:20 Europe/Berlin] App::App::loadRequestedController - ControllerName: HomeController
+[23-Jan-2024 23:10:20 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:10:20 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:10:20 Europe/Berlin] App::App::initializeController - controller: \HomeController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarUltimosEstrenos
+[23-Jan-2024 23:10:20 Europe/Berlin] Controller::Controller::loadModel - URL: models/homeApiModel.php
+[23-Jan-2024 23:10:20 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:10:21 Europe/Berlin] 
+[23-Jan-2024 23:10:21 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:10:21 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/index.php?url=home/cargarPeliculas
+[23-Jan-2024 23:10:21 Europe/Berlin] App::App::__construct - URL: home/cargarPeliculas
+[23-Jan-2024 23:10:21 Europe/Berlin] App::App::processUrl - home
+[23-Jan-2024 23:10:21 Europe/Berlin] App::App::loadRequestedController - ControllerName: HomeController
+[23-Jan-2024 23:10:21 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:10:21 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:10:21 Europe/Berlin] App::App::initializeController - controller: \HomeController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarPeliculas
+[23-Jan-2024 23:10:21 Europe/Berlin] Controller::Controller::loadModel - URL: models/homeApiModel.php
+[23-Jan-2024 23:10:21 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:10:22 Europe/Berlin] 
+[23-Jan-2024 23:10:22 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:10:22 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/The-Marvels
+[23-Jan-2024 23:10:22 Europe/Berlin] App::App::__construct - URL: pelicula/The-Marvels
+[23-Jan-2024 23:10:22 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:10:22 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:10:22 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:10:22 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:10:22 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: The-Marvels
+[23-Jan-2024 23:10:22 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:10:22 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 23:10:22 Europe/Berlin] View::View::render - NOMBRE: pelicula/pelicula, DATA: Array
+[23-Jan-2024 23:10:23 Europe/Berlin] 
+[23-Jan-2024 23:10:23 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:10:23 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/index.php?url=pelicula/obtenerPelicula
+[23-Jan-2024 23:10:23 Europe/Berlin] App::App::__construct - URL: pelicula/obtenerPelicula
+[23-Jan-2024 23:10:23 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:10:23 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:10:23 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:10:23 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:10:23 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: obtenerPelicula
+[23-Jan-2024 23:10:23 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:10:23 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:10:23 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:10:23 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:10:23 Europe/Berlin] 
+[23-Jan-2024 23:10:23 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:10:23 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/index.php?url=pelicula/obtenerVideo
+[23-Jan-2024 23:10:23 Europe/Berlin] App::App::__construct - URL: pelicula/obtenerVideo
+[23-Jan-2024 23:10:23 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:10:23 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:10:23 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:10:23 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:10:23 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: obtenerVideo
+[23-Jan-2024 23:10:23 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:10:23 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:10:23 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:10:23 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:10:32 Europe/Berlin] 
+[23-Jan-2024 23:10:32 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:10:32 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/busqueda/estrenos
+[23-Jan-2024 23:10:32 Europe/Berlin] App::App::__construct - URL: busqueda/estrenos
+[23-Jan-2024 23:10:32 Europe/Berlin] App::App::processUrl - busqueda
+[23-Jan-2024 23:10:32 Europe/Berlin] App::App::loadRequestedController - ControllerName: BusquedaController
+[23-Jan-2024 23:10:32 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:10:32 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:10:32 Europe/Berlin] App::App::initializeController - controller: \BusquedaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: estrenos
+[23-Jan-2024 23:10:32 Europe/Berlin] Controller::Controller::loadModel - URL: models/busquedaApiModel.php
+[23-Jan-2024 23:10:32 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 23:10:32 Europe/Berlin] View::View::render - NOMBRE: busqueda/busqueda, DATA: Array
+[23-Jan-2024 23:10:32 Europe/Berlin] 
+[23-Jan-2024 23:10:32 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:10:32 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/busqueda/index.php?url=busqueda/cargarPeliculas
+[23-Jan-2024 23:10:32 Europe/Berlin] App::App::__construct - URL: busqueda/cargarPeliculas
+[23-Jan-2024 23:10:32 Europe/Berlin] App::App::processUrl - busqueda
+[23-Jan-2024 23:10:32 Europe/Berlin] App::App::loadRequestedController - ControllerName: BusquedaController
+[23-Jan-2024 23:10:32 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:10:32 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:10:32 Europe/Berlin] App::App::initializeController - controller: \BusquedaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: cargarPeliculas
+[23-Jan-2024 23:10:32 Europe/Berlin] Controller::Controller::loadModel - URL: models/busquedaApiModel.php
+[23-Jan-2024 23:10:32 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:10:32 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:10:32 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:10:32 Europe/Berlin] estrenos
+[23-Jan-2024 23:10:34 Europe/Berlin] 
+[23-Jan-2024 23:10:34 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:10:34 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/Wonka
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::__construct - URL: pelicula/Wonka
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:10:34 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:10:34 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: Wonka
+[23-Jan-2024 23:10:34 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:10:34 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/view.php on line 12
+[23-Jan-2024 23:10:34 Europe/Berlin] View::View::render - NOMBRE: pelicula/pelicula, DATA: Array
+[23-Jan-2024 23:10:34 Europe/Berlin] 
+[23-Jan-2024 23:10:34 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:10:34 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/index.php?url=pelicula/obtenerPelicula
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::__construct - URL: pelicula/obtenerPelicula
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:10:34 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:10:34 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: obtenerPelicula
+[23-Jan-2024 23:10:34 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:10:34 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:10:34 Europe/Berlin] Model::Model::__construct - Sin mensajes.
+[23-Jan-2024 23:10:34 Europe/Berlin] 
+[23-Jan-2024 23:10:34 Europe/Berlin] ---------------------------- Hello, errors! ----------------------------
+[23-Jan-2024 23:10:34 Europe/Berlin] Abriendo desde la URL: https://www.paolosq.com/proyectos/cuevana/pelicula/index.php?url=pelicula/obtenerVideo
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::__construct - URL: pelicula/obtenerVideo
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::processUrl - pelicula
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::loadRequestedController - ControllerName: PeliculaController
+[23-Jan-2024 23:10:34 Europe/Berlin] View::View::__construct - Sin mensajes.
+[23-Jan-2024 23:10:34 Europe/Berlin] Controller::Controller::__construct - Sin mensajes.
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::initializeController - controller: \PeliculaController::__set_state(array(
+   'view' => 
+  \View::__set_state(array(
+     'data' => 
+    array (
+    ),
+  )),
+   'model' => NULL,
+)), method: obtenerVideo
+[23-Jan-2024 23:10:34 Europe/Berlin] Controller::Controller::loadModel - URL: models/peliculaApiModel.php
+[23-Jan-2024 23:10:34 Europe/Berlin] PHP Warning:  Array to string conversion in /homepages/8/d993419550/htdocs/proyectos/cuevana/libs/app.php on line 72
+[23-Jan-2024 23:10:34 Europe/Berlin] App::App::callControllerMethod - RQ_METHOD: POST, JSONDATA: Array
+[23-Jan-2024 23:10:34 Europe/Berlin] Model::Model::__construct - Sin mensajes.

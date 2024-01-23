@@ -1,0 +1,12 @@
+.error-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-block: 30vh 15vh;
+}
+.error-info{
+    text-align: center;
+}
+.error-info h1, .error-info p{
+    font-size: 3em;
+}

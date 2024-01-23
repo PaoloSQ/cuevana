@@ -1,0 +1,88 @@
+/* ----------------------------------- SECTION ESTRENOS ----------------------------------- */
+
+
+.carousel{
+    width: 100%;
+}
+.carousel-inner{
+    position: relative;
+    display: flex;
+}
+.carousel-item{
+    margin-block: auto;
+    background-position: center;
+    background-size: cover;
+    background-position: center;
+}
+.carousel-item:active{
+    cursor: grab;
+}
+.item-container{
+    height: 570px;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to top, rgba(8,15,40,0.3) 0%,rgba(8,15,40,0.9) 100%)
+}
+.estreno-container{
+    display: flex;
+    flex-direction: column;
+    padding-block: 12% 7%;
+    margin-inline: var(--margin-inline); 
+}
+.estreno-titulo-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.estreno-titulo-container:hover{
+    transform: scale(1.01);
+}
+.estreno-titulo{
+    font-size: 3.5em;
+    font-weight: bold;
+    margin-right: 15px;
+}
+.estreno-tipo{
+    font-size: 0.7em;
+    color: black !important;
+    background-color: rgb(209, 209, 0);
+    font-weight: bold;
+    padding: 2px 7px;
+    border-radius: 20px;
+}
+.estreno-fecha{
+    margin-top: 0.5%;
+    color: var(--grey) !important;
+}
+.estreno-descripcion{
+    font-size: 1.4em;
+    margin-block: 2% 3%;
+    color: var(--grey) !important;
+}
+.boton-ver_pelicula{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    background-color: var(--boton-color);
+    padding: 0.8% 2.6%;
+    gap: 12px;
+    font-size: 1.2em;
+    border-radius: 25px;
+}
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    padding: 0;
+    margin-block: 0;
+    margin-inline: 4px;
+    background-color: rgba(79, 107, 149, 1);
+    border: 0;
+    opacity: 1;
+}
+.carousel-indicators .active {
+    width: 40px;
+    background-color: var(--boton-color) !important;
+    border-radius: 20px;
+}
